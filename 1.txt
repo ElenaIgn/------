@@ -1,0 +1,1 @@
+append(element), extend(iterable), remove(element), sort(key=None, reverse=False), index(element)

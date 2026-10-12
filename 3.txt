@@ -1,0 +1,1 @@
+add(element), remove(element), intersection(other_set), union(other_set), difference(other_set)

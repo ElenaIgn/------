@@ -1,0 +1,1 @@
+get(key, default=None), keys(), values(), items(), update(other_dict)
